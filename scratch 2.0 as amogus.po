@@ -1,0 +1,1820 @@
+msgid "%b and %b"
+msgstr "%b sussy %b"
+
+msgid "%b or %b"
+msgstr "how sus could %b be against %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "funni %m.attribute of %m.spriteOrStage sussy amogus"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list has a sussy of %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "funni math %m.mathOp haha %n"
+
+msgid "%m.sensor sensor value"
+msgstr "mr %m.sesnor sus has came to sensor! mwagha"
+
+msgid "%n mod %n"
+msgstr "noo an %n mod %n noooooo"
+
+msgid "Control"
+msgstr "nintendo switch port"
+
+msgid "Data"
+msgstr "logs"
+
+msgid "Events"
+msgstr "tasks"
+
+msgid "Looks"
+msgstr "skins"
+
+msgid "More Blocks"
+msgstr "sussys"
+
+msgid "Motion"
+msgstr "walk"
+
+msgid "Operators"
+msgstr "cams"
+
+msgid "Pen"
+msgstr "medbay lol"
+
+msgid "Sensing"
+msgstr "imposter detecter"
+
+msgid "Sound"
+msgstr "amogus drip"
+
+msgid "add %s to %m.list"
+msgstr "give the imposter some %s money and give them $20 %m.list"
+
+msgid "answer"
+msgstr "interigate"
+
+msgid "ask %s and wait"
+msgstr "where was %s last night"
+
+msgid "backdrop #"
+msgstr "area"
+
+msgid "backdrop name"
+msgstr "area name"
+
+msgid "broadcast %m.broadcast"
+msgstr "alert everyone the following message: %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "call emergency %m.broadcast"
+
+msgid "change %m.effect effect by %n"
+msgstr "vent while %m.effect is in use"
+
+msgid "change %m.var by %n"
+msgstr "change %m.var votes by %n"
+
+msgid "change pen color by %n"
+msgstr "change color by %n to not look sus"
+
+msgid "change pen shade by %n"
+msgstr "change shade by %n to hide myself"
+
+msgid "change pen size by %n"
+msgstr "mini crewmate size: change it by: %n"
+
+msgid "change size by %n"
+msgstr "imposter size: change it by: %n"
+
+msgid "change tempo by %n"
+msgstr "change amogus speed by %n"
+
+msgid "change volume by %n"
+msgstr "change amogus drip loudness by %n"
+
+msgid "change x by %n"
+msgstr "walk %n times"
+
+msgid "change y by %n"
+msgstr "change flight hight by %n"
+
+msgid "clear"
+msgstr "kill"
+
+msgid "clear graphic effects"
+msgstr "kill"
+
+msgid "color %c is touching %c?"
+msgstr "amogus with color %c is about to o0f amogus color %c?"
+
+msgid "costume #"
+msgstr "skin #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "make imposter out of %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "time in %m.timeAndDate"
+
+msgid "days since 2000"
+msgstr "days since the imposter was sus"
+
+msgid "define"
+msgstr "sussy"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "kill crewmate %d.listDeleteItem from %m.list"
+
+msgid "delete this clone"
+msgstr "betray this imposter"
+
+msgid "direction"
+msgstr "pointing in"
+
+msgid "distance"
+msgstr "away"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "close enough to kill %m.spriteOrMouse"
+
+msgid "else"
+msgstr "or else..."
+
+msgid "forever"
+msgstr "for eternity"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "dash %n seconds to location %n %n"
+
+msgid "go back %n layers"
+msgstr "go %n"
+
+msgid "go to %m.location"
+msgstr "teleport to %m.location"
+
+msgid "go to front"
+msgstr "go to cafeteria"
+
+msgid "go to x:%n y:%n"
+msgstr "teleport to location %n %n"
+
+msgid "hide"
+msgstr "vent"
+
+msgid "hide list %m.list"
+msgstr "kill crewmate %m.list"
+
+msgid "hide variable %m.var"
+msgstr "throw crewmate %m.var into the vent"
+
+msgid "if %b then"
+msgstr "imposter did %b?"
+
+msgid "if on edge, bounce"
+msgstr "if touching the side of the screen, repel to the other side"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "insert crewmate # %s with crewmate number %d.listItem of map %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "inspect crewmate %d.listItem from map %m.list"
+
+msgid "join %s %s"
+msgstr "imposters: %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "given key is %m.key?"
+
+msgid "length of %m.list"
+msgstr "players in map %m.list"
+
+msgid "length of %s"
+msgstr "AAAAAAA- amount of imposters in the words %s"
+
+msgid "letter %n of %s"
+msgstr "imposter %n of map %s"
+
+msgid "loudness"
+msgstr "LOUDNESS AAAAAAAA"
+
+msgid "mouse down?"
+msgstr "imposter has kills?"
+
+msgid "mouse x"
+msgstr "imposter x"
+
+msgid "mouse y"
+msgstr "imposter y"
+
+msgid "move %n steps"
+msgstr "walk %n steps somewhere"
+
+msgid "next backdrop"
+msgstr "next map"
+
+msgid "next costume"
+msgstr "next skin"
+
+msgid "not %b"
+msgstr "imposter is not %b"
+
+msgid "pen down"
+msgstr "crewmate down"
+
+msgid "pen up"
+msgstr "imposter up"
+
+msgid "pick random %n to %n"
+msgstr "imposter count: pick random %n to %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "play sussy drum %d.drum for %n beats"
+
+msgid "play note %d.note for %n beats"
+msgstr "make note %d.note out of mouth for %n beats"
+
+msgid "play sound %m.sound"
+msgstr "sus sound to hear: %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "amog drip %m.sound forever"
+
+msgid "point in direction %d.direction"
+msgstr "point towards sus crewmate in %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "face crewmate %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "kill %n times"
+
+msgid "repeat until %b"
+msgstr "repeat unti the imposter gets voted out or %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "replace crewmate %d.ListItem of map %m.list with imposter %s "
+
+msgid "reset timer"
+msgstr "restart game"
+
+msgid "rest for %n beats"
+msgstr "amogus dances 4 %n beats"
+
+msgid "round %n"
+msgstr "is %n a round amogus?"
+
+msgid "say %s"
+msgstr "yell %s"
+
+msgid "say %s for %n secs"
+msgstr "alert %s to get $%n"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "find imposter %m.booleanSensor"
+
+msgid "set %m.effect effect to %n"
+msgstr "set the sus power %m.effect to %n"
+
+msgid "set %m.motor power to %n"
+msgstr "set car %m.moter power to %n"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "car %m.moter2 direction setter: set to %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "imposter chance of game %m.var is %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "set amog drip instruments to %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "set imposter color to %c"
+
+msgid "set pen color to %n"
+msgstr "set imposter color to %n"
+
+msgid "set pen shade to %n"
+msgstr "set imposter invisibilty to %n"
+
+msgid "set pen size to %n"
+msgstr "set imposter win to %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "set crewmate style %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "set vent power to %n"
+
+msgid "set tempo to %n bpm"
+msgstr "set funni speed to %n"
+
+msgid "set video transparency to %n%"
+msgstr "set sus transparency to %n"
+
+msgid "set volume to %n%"
+msgstr "set amog drip audio forerr %n%"
+
+msgid "set x to %n"
+msgstr "set px %n"
+
+msgid "set y to %n"
+msgstr "set py %n"
+
+msgid "show"
+msgstr "scan"
+
+msgid "show list %m.list"
+msgstr "show crewmates from map %m.list"
+
+msgid "show variable %m.var"
+msgstr "show imposter %m.var"
+
+msgid "size"
+msgstr "the hugeness of the imposters"
+
+msgid "stamp"
+msgstr "generate new imposter"
+
+msgid "stop %m.stop"
+msgstr "kill %m.stop"
+
+msgid "stop all sounds"
+msgstr "r.i.p amog drip :("
+
+msgid "switch backdrop to %m.backdrop"
+msgstr "switch map to %m.backdrop"
+
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "switch map to %m.backdrop and start game"
+
+msgid "switch costume to %m.costume"
+msgstr "set skin to %m.costume"
+
+msgid "tempo"
+msgstr "over 1000 building blocks collapsing in my house"
+
+msgid "think %s"
+msgstr "plan: %s"
+
+msgid "think %s for %n secs"
+msgstr "say plan %s out loud to %n people"
+
+msgid "tilt"
+msgstr "ummmmm mmmm richer???"
+
+msgid "timer"
+msgstr "kill cooldown"
+
+msgid "touching %m.touching?"
+msgstr "touching crewmate %m.touching?"
+
+msgid "touching color %c?"
+msgstr "touching imposter with color %c?"
+
+msgid "turn %m.motor off"
+msgstr "turn mogus car %m.moter off"
+
+msgid "turn %m.motor on"
+msgstr "turn mogus car %m.moter on"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "turn off the %m.moter car after %n secs of being 0n"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "turn left de- oh no oh noooo @turnLeft %n"
+
+msgid "turn @turnRight %n degrees"
+msgstr "right degerees until sus @turnRight %n is very sus"
+
+msgid "turn video %m.videoState"
+msgstr "sus amogus %m.videoState"
+
+msgid "username"
+msgstr "sus amogus"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "amogus %m.videoMotionType for sussy %m.stageOrThis"
+
+msgid "volume"
+msgstr "amog drip susness"
+
+msgid "wait %n secs"
+msgstr "kill crewmate after %n secs"
+
+msgid "wait until %b"
+msgstr "imposter %b"
+
+msgid "when %m.booleanSensor"
+msgstr "sus %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "the imposter holds the %m.key key. mwahahahaa"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "hmm????? %m.sensor !!!!! %m.lessMore %n!/!?1//1/1"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "trigger %m.triggerSensor > %n sus"
+
+msgid "when @greenFlag clicked"
+msgstr "haha the funni sus @greenFlag is too sus for meh"
+
+msgid "when I receive %m.broadcast"
+msgstr "when emergency meeting %m.broadcast waS called"
+
+msgid "when I start as a clone"
+msgstr "when i begin the game as an imposter"
+
+msgid "when Stage clicked"
+msgstr "when map clicked?/?//?///??/?/"
+
+msgid "when backdrop switches to %m.backdrop"
+msgstr "when map is %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr "sussy baka distance %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "when task clicked"
+
+msgid "when tilt %m.eNe %n"
+msgstr "tilt amogus %m.eNe %n"
+
+msgid "x position"
+msgstr "xp"
+
+msgid "y position"
+msgstr "yp"
+
+msgid "Language-Name"
+msgstr "sussy-imposter"
+
+msgid "%m.list contains %s"
+msgstr "map %m.list has crewmate %s"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "barf on %m.spriteOrMouse"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "set car direction %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "set car power %n"
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+msgid "turn motor on for %n secs"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "10 ^"
+msgstr "tewn up"
+
+msgid "A connected"
+msgstr ""
+
+msgid "A newer version of Scratch is available"
+msgstr "amogus sus is here mwahaha"
+
+msgid "About"
+msgstr "imposters"
+
+msgid "Account settings"
+msgstr "what"
+
+msgid "Add"
+msgstr "add crewmate"
+
+msgid "Add an Extension"
+msgstr "add a sussy baka"
+
+msgid "Add boolean input:"
+msgstr "sus imposter triANGE"
+
+msgid "Add label text:"
+msgstr "add amogys"
+
+msgid "Add number input:"
+msgstr "you fool imn thge imposter"
+
+msgid "Add string input:"
+msgstr "1"
+
+msgid "All"
+msgstr "all the imposters"
+
+msgid "All Tips"
+msgstr "all imposters"
+
+msgid "Animal"
+msgstr "sussy amogus"
+
+msgid "Animals"
+msgstr "sussys"
+
+msgid "B connected"
+msgstr "a"
+
+msgid "Back a layer"
+msgstr "bye bye"
+
+msgid "Backdrop"
+msgstr "map"
+
+msgid "Backdrop Library"
+msgstr ""
+
+msgid "Backdrops"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bitmap"
+msgstr ""
+
+msgid "Bitmap Mode"
+msgstr ""
+
+msgid "Block help"
+msgstr ""
+
+msgid "Bongo"
+msgstr ""
+
+msgid "Bring to front"
+msgstr ""
+
+msgid "Broadcast"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "Can’t find network connection or reach server."
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Cello"
+msgstr ""
+
+msgid "Check for updates"
+msgstr ""
+
+msgid "Choir"
+msgstr ""
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Clarinet"
+msgstr ""
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Cloud data"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
+
+msgid "Color a shape"
+msgstr ""
+
+msgid "Conga"
+msgstr ""
+
+msgid "Connecting to Cloud data server..."
+msgstr ""
+
+msgid "Convert to bitmap"
+msgstr ""
+
+msgid "Convert to vector"
+msgstr ""
+
+msgid "Converting mp3..."
+msgstr ""
+
+msgid "Copying..."
+msgstr ""
+
+msgid "Costume"
+msgstr ""
+
+msgid "Costume Library"
+msgstr ""
+
+msgid "Costumes"
+msgstr ""
+
+msgid "Costumes > 1"
+msgstr ""
+
+msgid "Could not retrieve new application from server."
+msgstr ""
+
+msgid "Could not retrieve update location from server."
+msgstr ""
+
+msgid "Could not retrieve version information from server."
+msgstr ""
+
+msgid "Could not write file:"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Don't save"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download to your computer"
+msgstr ""
+
+msgid "Downloading new version..."
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Block"
+msgstr ""
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "Electronic"
+msgstr ""
+
+msgid "Ellipse"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
+msgid "Eraser width"
+msgstr ""
+
+msgid "Error saving project"
+msgstr ""
+
+msgid "Error!"
+msgstr ""
+
+msgid "Fantasy"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Fill with color"
+msgstr ""
+
+msgid "Flip left-right"
+msgstr ""
+
+msgid "Flip up-down"
+msgstr ""
+
+msgid "Flute"
+msgstr ""
+
+msgid "Flying"
+msgstr ""
+
+msgid "Font:"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Force help file update"
+msgstr ""
+
+msgid "Forward a layer"
+msgstr ""
+
+msgid "Go to My Stuff"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Grow"
+msgstr ""
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "High C"
+msgstr ""
+
+msgid "Holiday"
+msgstr ""
+
+msgid "Human"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+msgid "Importing sound..."
+msgstr ""
+
+msgid "Indoors"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Instruments"
+msgstr ""
+
+msgid "Letters"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Line"
+msgstr ""
+
+msgid "Line width"
+msgstr ""
+
+msgid "List name"
+msgstr ""
+
+msgid "Loading help files..."
+msgstr ""
+
+msgid "Loading project..."
+msgstr ""
+
+msgid "Low C"
+msgstr ""
+
+msgid "Make a Block"
+msgstr ""
+
+msgid "Make a List"
+msgstr ""
+
+msgid "Make a Variable"
+msgstr ""
+
+msgid "Manual Update Available"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Message Name"
+msgstr ""
+
+msgid "Microphone volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Multiple"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Music Loops"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
+msgid "My Stuff"
+msgstr ""
+
+msgid "Nature"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New Block"
+msgstr ""
+
+msgid "New List"
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+msgid "New Variable"
+msgstr ""
+
+msgid "New backdrop from camera"
+msgstr ""
+
+msgid "New backdrop:"
+msgstr ""
+
+msgid "New costume from camera"
+msgstr ""
+
+msgid "New costume:"
+msgstr ""
+
+msgid "New name"
+msgstr ""
+
+msgid "New sound:"
+msgstr ""
+
+msgid "New sprite from camera"
+msgstr ""
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No motion blocks"
+msgstr ""
+
+msgid "No, Thanks"
+msgstr ""
+
+msgid "Not saved; network or server problem."
+msgstr ""
+
+msgid "Not saved; project did not load."
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Offline Editor"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Project"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Organ"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Outdoors"
+msgstr ""
+
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
+
+msgid "Pencil"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Percussion"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "Pick up color"
+msgstr ""
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "Please visit the download page to install it."
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Project did not load."
+msgstr ""
+
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
+msgid "Project not saved!"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Record & Export Video"
+msgstr ""
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Record new sound"
+msgstr ""
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Remix"
+msgstr ""
+
+msgid "Remixing..."
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Replace existing project?"
+msgstr ""
+
+msgid "Reshape"
+msgstr ""
+
+msgid "Revert"
+msgstr ""
+
+msgid "Reverting..."
+msgstr ""
+
+msgid "Run without screen refresh"
+msgstr ""
+
+msgid "Running pre-release"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Project"
+msgstr ""
+
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
+msgid "Save as a copy"
+msgstr ""
+
+msgid "Save now"
+msgstr ""
+
+msgid "Save project?"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving changes..."
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "Scripts"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select and duplicate"
+msgstr ""
+
+msgid "Send to back"
+msgstr ""
+
+msgid "Server error:"
+msgstr ""
+
+msgid "Set Costume Center"
+msgstr ""
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Share to Scratch Website"
+msgstr ""
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Shift:"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "Sound Library"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Sprite"
+msgstr ""
+
+msgid "Sprite Library"
+msgstr ""
+
+msgid "Sprite1"
+msgstr ""
+
+msgid "Sprites"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Stage"
+msgstr ""
+
+msgid "Stage selected:"
+msgstr ""
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
+msgid "This version is newer than the current release version."
+msgstr ""
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "Transportation"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Turbo Mode"
+msgstr ""
+
+msgid "Turbo mode"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Underwater"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo Revert"
+msgstr ""
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "Update check failed"
+msgstr ""
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
+
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
+msgid "Upload failed"
+msgstr ""
+
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Video on:"
+msgstr ""
+
+msgid "Visit download page"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
+msgid "Walking"
+msgstr ""
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "Yes, I'd Like To Help Improve Scratch"
+msgstr ""
+
+msgid "Your Scratch name"
+msgstr ""
+
+msgid "Your Scratch name is required"
+msgstr ""
+
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
+
+msgid "a copy of the project file on your computer."
+msgstr ""
+
+msgid "abs"
+msgstr ""
+
+msgid "acos"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "all around"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "assets loaded"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "backdrop"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "backdrops"
+msgstr ""
+
+msgid "brightness"
+msgstr ""
+
+msgid "button pressed"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "bytes loaded"
+msgstr ""
+
+msgid "can drag in player:"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "clean up"
+msgstr ""
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "color"
+msgstr ""
+
+msgid "copy"
+msgstr ""
+
+msgid "cos"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "delete variable"
+msgstr ""
+
+msgid "direction:"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr ""
+
+msgid "down arrow"
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr ""
+
+msgid "edit"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "fisheye"
+msgstr ""
+
+msgid "floor"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "hour"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "large readout"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "left arrow"
+msgstr ""
+
+msgid "left-right"
+msgstr ""
+
+msgid "length"
+msgstr ""
+
+msgid "light"
+msgstr ""
+
+msgid "limit reached"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "message1"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr ""
+
+msgid "myself"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "normal readout"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "off"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "other scripts in stage"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "pixelate"
+msgstr ""
+
+msgid "pop"
+msgstr ""
+
+msgid "previous backdrop"
+msgstr ""
+
+msgid "random"
+msgstr ""
+
+msgid "random position"
+msgstr ""
+
+msgid "record..."
+msgstr ""
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires sign in"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "right arrow"
+msgstr ""
+
+msgid "rotation style:"
+msgstr ""
+
+msgid "save to local file"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "set slider min and max"
+msgstr ""
+
+msgid "shared"
+msgstr ""
+
+msgid "show:"
+msgstr ""
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "slider"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "sqrt"
+msgstr ""
+
+msgid "tan"
+msgstr ""
+
+msgid "text"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "undo"
+msgstr ""
+
+msgid "unshared"
+msgstr ""
+
+msgid "up"
+msgstr ""
+
+msgid "up arrow"
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "video direction"
+msgstr ""
+
+msgid "video motion"
+msgstr ""
+
+msgid "whirl"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+msgid "Click  to try again or  to save"
+msgstr ""
+
+msgid "Cloud"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "Costumes:"
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
+msgstr ""
+
+msgid "Scripts:"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "stored on server"
+msgstr ""
